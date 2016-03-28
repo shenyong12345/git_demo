@@ -1,6 +1,5 @@
 diff a/demo b/demo	(rejected hunks)
-@@ -1 +0,2 @@
--http://localhost/thinkphp/index.php/home/index/test123
-\ No newline at end of file
-+http://localhost/thinkphp/index.php/home/index/test123
-+123
+@@ -1,2 +1,2 @@
+ http://localhost/thinkphp/index.php/home/index/test123
+-123
++4444
